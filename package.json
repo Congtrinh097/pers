@@ -1,0 +1,20 @@
+{
+  "name": "english-for-beginner",
+  "version": "0.0.1",
+  "description": "this is cms site for english-for-beginner",
+  "main": "index.js",
+  "authors": {
+    "name": "Trinh TC",
+    "email": "congtrinh097@gmail.com"
+  },
+  "repository": "english-for-beginner/english-for-beginner",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.5.3"
+  }
+}
