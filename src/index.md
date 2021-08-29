@@ -2,15 +2,14 @@
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: A Personal Blog Site
-actionText: Quick Start →
-actionLink: /guide/
+actionText: Bắt đầu →
+actionLink: /c-shape/
 features:
-- title: Test Your English Level
-  link: google.com
-  details: Feature 1 Description
-- title: Learn Vocabulary
-  details: Feature 2 Description
-- title: Learn from Videos
-  details: Feature 3 Description
-footer: Copyright by Trinh TC
+- title: Ngôn ngữ lập trình C#
+  details: 
+- title: Ngôn ngữ lập trình JavaScript
+  details: 
+- title: Ngôn ngữ lập trình Python
+  details: 
+footer: Copyright by TrinhTC
 ---

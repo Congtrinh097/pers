@@ -34,26 +34,26 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Introduction',
+        text: 'Home',
+        link: '/',
+      },
+      {
+        text: 'NNLT C#',
+        link: '/c-shape/'
+      },
+      {
+        text: 'About me',
         link: '/introduction/',
-      },
-      {
-        text: 'Guide',
-        link: '/guide/',
-      },
-      {
-        text: 'Config',
-        link: '/config/'
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/c-shape/': [
         {
-          title: 'Guide',
+          title: 'NNLT C#',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'key-words',
           ]
         }
       ]
