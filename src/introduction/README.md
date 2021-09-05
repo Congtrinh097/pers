@@ -1,4 +1,4 @@
-# Introduction
+# INTRODUCE MYSELT
 ## Infomation
 - Full Name: Trần Công Trình
 - Birthday: 02 January
@@ -107,4 +107,6 @@ Member for Vuejs Team
     * Working on project about manage projects of construction. Development frontend with VueJs and Backend with Nodejs to add new and update features.
 - Technologies:
     * Node + VueJs
-    *  Firebase Firestore for Realtime database.
+    * Firebase Firestore for Realtime database.
+    
+<h3><a href="https://www.topcv.vn/xem-cv/AAAHAw9WB1VcVVVSVg0HD1UAUlQCVlZTBQ9fBgbb01/" target="_blank">Download My CV</a></h3>
