@@ -6,7 +6,7 @@
 - Email: congtrinh097@gmail.com
 
 ## About me
-I'm a fullstack developer with over 7 years’ experience working as a software developer. I recognize myself as a self motivated and hard-working person, with high level of responsibility, I always try my best to complete any project with the highest quality. To further sharpen my skill set, I am continuously acquiring new technologies and seeking more challenging jobs. If you curiously about me please visit my [personal site](https://www.congtrinh097.info/)
+I'm a fullstack developer with over 7 years’ experience working as a software developer. I recognize myself as a self motivated and hard-working person, with high level of responsibility, I always try my best to complete any project with the highest quality. To further sharpen my skill set, I am continuously acquiring new technologies and seeking more challenging jobs. If you curiously about me please visit my [personal site](https://congtrinh097.info/)
 ## My skills
 ### Backend
 - .NET C#
