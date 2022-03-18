@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'TrinhTC\'s Blog',
+  title: 'TL Studio\'s Blog',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */

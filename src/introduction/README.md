@@ -6,7 +6,7 @@
 - Email: congtrinh097@gmail.com
 
 ## About me
-I'm a fullstack developer with over 7 years’ experience working as a software developer. I recognize myself as a self motivated and hard-working person, with high level of responsibility, I always try my best to complete any project with the highest quality. To further sharpen my skill set, I am continuously acquiring new technologies and seeking more challenging jobs. If you curiously about me please visit my [personal site](http://www.congtrinh097.info/)
+I'm a fullstack developer with over 7 years’ experience working as a software developer. I recognize myself as a self motivated and hard-working person, with high level of responsibility, I always try my best to complete any project with the highest quality. To further sharpen my skill set, I am continuously acquiring new technologies and seeking more challenging jobs. If you curiously about me please visit my [personal site](http://www.congtrinh097.tlstudio.asia/)
 ## My skills
 ### Backend
 - .NET C#
@@ -17,6 +17,7 @@ I'm a fullstack developer with over 7 years’ experience working as a software 
 - MongoDB
 - Firebase Firestore
 ### Frontend
+- Angular
 - VueJS
 - ReactJS
 ### Others
@@ -99,7 +100,7 @@ Member for Reporting team
     *  SQL Server
     * Micro Services System with RabbitMQ as Message Broker
 
-#### November 2020 to Now
+#### November 2020 to September 2012
 FREELANCER
 
 Member for Vuejs Team
@@ -108,3 +109,16 @@ Member for Vuejs Team
 - Technologies:
     * Node + VueJs
     *  Firebase Firestore for Realtime database.
+
+#### September 2021 to Now
+FREELANCER
+
+Member for .NET/ Angular Team
+- Main responsibilities:
+    * Working in sub team to development frontend with Angular 8 and Backend with .NET CORE 3.1 to add new and update features.
+    * Working on agile process to completed tasks and release product package on time. 
+- Technologies:
+    * .NET CORE + Angular
+    * MS SQL Database
+    * Azure Devops 
+    * Azure function
