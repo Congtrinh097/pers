@@ -1,4 +1,4 @@
-# Introduction
+# INTRODUCE MYSELT
 ## Infomation
 - Full Name: Trần Công Trình
 - Birthday: 02 January
@@ -7,6 +7,7 @@
 
 ## About me
 I'm a fullstack developer with over 7 years’ experience working as a software developer. I recognize myself as a self motivated and hard-working person, with high level of responsibility, I always try my best to complete any project with the highest quality. To further sharpen my skill set, I am continuously acquiring new technologies and seeking more challenging jobs. If you curiously about me please visit my [personal site](http://www.congtrinh097.tlstudio.asia/)
+
 ## My skills
 ### Backend
 - .NET C#
@@ -108,8 +109,7 @@ Member for Vuejs Team
     * Working on project about manage projects of construction. Development frontend with VueJs and Backend with Nodejs to add new and update features.
 - Technologies:
     * Node + VueJs
-    *  Firebase Firestore for Realtime database.
-
+    * Firebase Firestore for Realtime database.
 #### September 2021 to Now
 FREELANCER
 
@@ -122,3 +122,5 @@ Member for .NET/ Angular Team
     * MS SQL Database
     * Azure Devops 
     * Azure function
+    
+<h3><a href="https://www.topcv.vn/xem-cv/AAAHAw9WB1VcVVVSVg0HD1UAUlQCVlZTBQ9fBgbb01/" target="_blank">Download My CV</a></h3>

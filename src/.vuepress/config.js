@@ -38,7 +38,7 @@ module.exports = {
         link: '/',
       },
       {
-        text: 'NNLT C#',
+        text: 'C#',
         link: '/c-shape/'
       },
       {
@@ -49,11 +49,12 @@ module.exports = {
     sidebar: {
       '/c-shape/': [
         {
-          title: 'NNLT C#',
+          title: 'C#',
           collapsable: false,
           children: [
             '',
             'key-words',
+            'variables',
           ]
         }
       ]
